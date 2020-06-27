@@ -10,3 +10,4 @@ class Solution:
             if nums[i]>0:
                 res.append(i+1)
         return res
+        
